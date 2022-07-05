@@ -1,0 +1,29 @@
+id make
+ brand name 3 letters
+ main name 4
+ datefull
+
+
+const under1000 = [
+  {
+    id: "123",
+    name: "Xiomi 23",
+  },
+  {
+    id: "124",
+    name: "Xiomi 223",
+  }
+];
+
+const allList = [
+  {
+    id: "123",
+    name: "Xiomi 23",
+    creation_date: "1-2-3",
+  },
+  {
+    id: "124",
+    name: "Xiomi 223",
+    creation_date: "1-2-3",
+  }
+];

@@ -1,0 +1,171 @@
+[{
+    "id": "xionote080622",
+    "mobile_name": "Redmi note 11T 5G",
+    "creation_date": "1-2-3",
+    "price": ["12,344"],
+    "user_rating":"2",
+    "chersky_rating": "2.5",
+    "img1": "",
+    "img2": "",
+    "video1": "",
+    "video2": "",
+    "meta1": "",
+    "meta2": [],
+    "specs": [
+      {
+        "id": 1, "category": "Launch", "sub_category": [
+          { "sid": 1, "s_name": "Technology", "details": "GSM/HSPA/LTE/5G" },
+          { "sid": 2, "s_name": "2G bands", "details": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2" }
+        ]
+      },
+      {
+        "id": 2, "category": "Launch", "sub_category": [
+            { "sid": 1, "s_name": "Technology", "details": "GSM/HSPA/LTE/5G" },
+            { "sid": 2, "s_name": "2G bands", "details": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2" }
+          ]
+      }
+    ]
+  },
+
+  {
+    "id": "iqoz6080622",
+    "mobile_name": "iQOO Z6 5G",
+    "creation_date": "1-2-3",
+    "price": ["12,344"],
+    "user_rating":"2",
+    "chersky_rating": "2.5",
+    "img1": "",
+    "img2": "",
+    "video1": "",
+    "video2": "",
+    "meta1": "",
+    "meta2": [],
+    "specs": [
+      {
+        "id": 1, "category": "Launch", "sub_category": [
+          { "sid": 1, "s_name": "Technology", "details": "GSM/HSPA/LTE/5G" },
+          { "sid": 2, "s_name": "2G bands", "details": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2" }
+        ]
+      },
+      {
+        "id": 2, "category": "Launch", "sub_category": [
+            { "sid": 1, "s_name": "Technology", "details": "GSM/HSPA/LTE/5G" },
+            { "sid": 2, "s_name": "2G bands", "details": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2" }
+          ]
+      }
+    ]
+  },
+  {
+    "id": "pocx4080622",
+    "mobile_name": "POCO X4 Pro",
+    "creation_date": "1-2-3",
+    "price": ["12,344"],
+    "user_rating":"2",
+    "chersky_rating": "2.5",
+    "img1": "",
+    "img2": "",
+    "video1": "",
+    "video2": "",
+    "meta1": "",
+    "meta2": [],
+    "specs": [
+      {
+        "id": 1, "category": "Launch", "sub_category": [
+          { "sid": 1, "s_name": "Technology", "details": "GSM/HSPA/LTE/5G" },
+          { "sid": 2, "s_name": "2G bands", "details": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2" }
+        ]
+      },
+      {
+        "id": 2, "category": "Launch", "sub_category": [
+            { "sid": 1, "s_name": "Technology", "details": "GSM/HSPA/LTE/5G" },
+            { "sid": 2, "s_name": "2G bands", "details": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2" }
+          ]
+      }
+    ]
+  },
+  {
+    "id": "rea9080622",
+    "mobile_name": "Realme 9",
+    "creation_date": "1-2-3",
+    "price": ["12,344"],
+    "user_rating":"2",
+    "chersky_rating": "2.5",
+    "img1": "",
+    "img2": "",
+    "video1": "",
+    "video2": "",
+    "meta1": "",
+    "meta2": [],
+    "specs": [
+      {
+        "id": 1, "category": "Launch", "sub_category": [
+          { "sid": 1, "s_name": "Technology", "details": "GSM/HSPA/LTE/5G" },
+          { "sid": 2, "s_name": "2G bands", "details": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2" }
+        ]
+      },
+      {
+        "id": 2, "category": "Launch", "sub_category": [
+            { "sid": 1, "s_name": "Technology", "details": "GSM/HSPA/LTE/5G" },
+            { "sid": 2, "s_name": "2G bands", "details": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2" }
+          ]
+      }
+    ]
+  },
+  {
+    "id": "samf23080622",
+    "mobile_name": "Galaxy F23 5G",
+    "creation_date": "1-2-3",
+    "price": ["12,344"],
+    "user_rating":"2",
+    "chersky_rating": "2.5",
+    "img1": "",
+    "img2": "",
+    "video1": "",
+    "video2": "",
+    "meta1": "",
+    "meta2": [],
+    "specs": [
+      {
+        "id": 1, "category": "Launch", "sub_category": [
+          { "sid": 1, "s_name": "Technology", "details": "GSM/HSPA/LTE/5G" },
+          { "sid": 2, "s_name": "2G bands", "details": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2" }
+        ]
+      },
+      {
+        "id": 2, "category": "Launch", "sub_category": [
+            { "sid": 1, "s_name": "Technology", "details": "GSM/HSPA/LTE/5G" },
+            { "sid": 2, "s_name": "2G bands", "details": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2" }
+          ]
+      }
+    ]
+  },
+  {
+    "id": "onenord080622",
+    "mobile_name": "One Plus Nord CE 2 Lite",
+    "creation_date": "1-2-3",
+    "price": ["12,344"],
+    "user_rating":"2",
+    "chersky_rating": "2.5",
+    "img1": "",
+    "img2": "",
+    "video1": "",
+    "video2": "",
+    "meta1": "",
+    "meta2": [],
+    "specs": [
+      {
+        "id": 1, "category": "Launch", "sub_category": [
+          { "sid": 1, "s_name": "Technology", "details": "GSM/HSPA/LTE/5G" },
+          { "sid": 2, "s_name": "2G bands", "details": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2" }
+        ]
+      },
+      {
+        "id": 2, "category": "Launch", "sub_category": [
+            { "sid": 1, "s_name": "Technology", "details": "GSM/HSPA/LTE/5G" },
+            { "sid": 2, "s_name": "2G bands", "details": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2" }
+          ]
+      }
+    ]
+  }
+
+]
