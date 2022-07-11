@@ -1,8 +1,7 @@
-import { NullVisitor } from '@angular/compiler/src/render3/r3_ast';
 import { Component, OnInit } from '@angular/core';
 import { ThemePalette } from '@angular/material/core';
 import { CherskyUnit } from 'src/app/shared-model/classes';
-import * as data from "../../../assets/m_data/m_data.json";
+import * as data from "../../../assets/m_data/under20.json";
 
 
 @Component({
@@ -32,12 +31,21 @@ export class HomeComponent implements OnInit {
       let data = this.rawData[i];
       let unit = new CherskyUnit();
       unit.id =  data.id ;
-      unit.name = data.mobile_name;
-      unit.price = data.price[1];
-      unit.best_price = data.price[0];
-      unit.chersky_rating = data.chersky_rating;
+      unit.name = data.name;
+      unit.price = data.price;
+      unit.chersky_rating = data.user_rating;
       unit.user_rating = data.user_rating;
-      unit.value = "val" + i;
+      unit.ram = data.ram;
+      unit.battery = data.battery;
+      unit.camera_front = data.camera_front;
+      unit.camera_rear = data.camera_rear;
+      unit.os = data.os;
+      unit.colors = data.colors;
+      unit.company_link = data.company_link;
+      unit.amazon_link = data.amazon_link;
+      unit.flipkart_link = data.flipkart_link;
+
+
       this.cherskyUnits.push(unit);
     }
   }
